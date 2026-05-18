@@ -21,3 +21,8 @@ no
 A2
 ## Hobby
 - Music
+## City
+- Miory
+- Vitebsk
+- Minsk
+- Grodno
