@@ -19,3 +19,5 @@ no
 
 ## English
 A2
+## Hobby
+- Music
