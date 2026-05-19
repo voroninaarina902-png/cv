@@ -1,7 +1,3 @@
----
-title: ""
----
-
 # Arina Voronina
 
 ## Contact
