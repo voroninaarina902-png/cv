@@ -31,9 +31,9 @@ A2
 ## Projects
 - CV Project  
   https://voroniinaarina902-png.github.io/cv/
- ## Code example
+## Code example
 
-"html
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -51,6 +51,5 @@ A2
   </ul>
 
 </body>
-</html>"
-
-
+</html>
+``
