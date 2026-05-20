@@ -1,3 +1,5 @@
+![avatar](https://avatars.mds.yandex.net/i?id=a51c3d3a415cc5ebbe255b4d64d4576f63c647af-4567432-images-thumbs&n=13)
+
 # Arina Voronina
 
 ## Contact
