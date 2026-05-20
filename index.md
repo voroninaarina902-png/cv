@@ -33,7 +33,7 @@ A2
   https://voroniinaarina902-png.github.io/cv/
  ## Code example
 
-html
+"html
 <!DOCTYPE html>
 <html>
 <head>
@@ -51,6 +51,6 @@ html
   </ul>
 
 </body>
-</html>
+</html>"
 
 
